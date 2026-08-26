@@ -4,7 +4,7 @@
   :author "egao1980"
   :license "MIT"
   :depends-on ("rpc-protocol")
-  :properties (:cl-repo (:ci (:sources (("yason" :ql) ("rove" :ql)))))
+
   :serial t
   :pathname "src"
   :components ((:file "package")
